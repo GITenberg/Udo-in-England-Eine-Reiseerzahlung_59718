@@ -1,5 +1,5 @@
 _repo: Udo-in-England-Eine-Reiseerzahlung_59718
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Hübner, Heinrich
@@ -9,9 +9,14 @@ contributor:
     agent_name: Bunsen, Marie von
     gutenberg_agent_id: '50588'
     url: http://www.gutenberg.org/2009/agents/50588
+covers:
+- cover_type: archival
+  image_path: 59718-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59718#Udo-in-England-Eine-Reiseerzahlung
 gutenberg_issued: '2019-06-10'
 gutenberg_type: Text
 identifiers:
